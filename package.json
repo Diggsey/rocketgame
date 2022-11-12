@@ -19,7 +19,7 @@
     "flow-bin": "^0.108.0",
     "flow-webpack-plugin": "^1.2.0",
     "webpack": "^4.40.2",
-    "webpack-cli": "^3.3.9",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.8.1"
   }
 }
